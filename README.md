@@ -1,5 +1,7 @@
 # work_of_systematization_of_taskmanagement
-タスク管理の体系化の作業場
+![workimage](https://user-images.githubusercontent.com/23325839/85939279-03786c00-b94f-11ea-8163-8ffeea445e81.png)
+
+タスク管理の体系化の作業場。
 
 ## タスク管理の体系化？
 https://scrapbox.io/sta-taskmanagement/
